@@ -40,7 +40,7 @@ extension LoginView {
         stackView.spacing = 8
 //        stackView.layer.cornerRadius = 20
 //        stackView.clipsToBounds = true
-        //the above two lines don't work because the stackview is non rendering layer its only used for the arrangement of the tings so im gonna apply cornre radius to the loign view itself..
+        //the above two lines don't work because the stackview is non rendering layer its only used for the arrangement of the things so im gonna apply cornre radius to the loign view itself..
         
         
         usernameTextField.translatesAutoresizingMaskIntoConstraints = false
